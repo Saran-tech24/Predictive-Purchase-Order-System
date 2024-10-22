@@ -8,19 +8,19 @@ ensuring optimal stock levels and minimizing waste.
 ## Key Features
 **Data Cleaning & Preprocessing:** 
     
-    Handle missing values, outliers, and format data for analysis.
+    * Handle missing values, outliers, and format data for analysis.
     
 **Exploratory Data Analysis (EDA):**
     
-    Analyze trends, seasonality, and patterns in historical sales data.
+    * Analyze trends, seasonality, and patterns in historical sales data.
     
 **Sales Forecasting:**
     
-    Implement predictive models (ARIMA, SARIMA, Prophet, LSTM) to forecast future sales.
+    * Implement predictive models (ARIMA, SARIMA, Prophet, LSTM) to forecast future sales.
     
 **Purchase Order Generation:**
 
-    Based on sales forecasts, calculate ingredient requirements and create a purchase order.
+    * Based on sales forecasts, calculate ingredient requirements and create a purchase order.
     
 ## Technologies Used
 
